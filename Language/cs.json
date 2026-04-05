@@ -52,7 +52,9 @@
     "SourceOther": "Web (yt-dlp)",
     "DownloadDisclaimer": "Při stahování skladby přes Spotify nebo Apple Music se může stát, že se stáhne jiná skladba než očekáváte. Pro přesnější výsledek vyhledejte skladbu přímo na SoundCloud nebo YouTube.",
     "PlaylistBadge": "PLAYLIST • {0}",
-    "PlaylistTrackCount": "{0} skladeb"
+    "PlaylistTrackCount": "{0} skladeb",
+    "AudioModeAutoTitle": "Režim stahování",
+    "AudioModeAutoMessage": "Zjistili jsme, že jde o odkaz na hudbu (nikoli na video). Režim byl automaticky přepnut na stahování audia (Audio)."
   },
   "Spotify": {
     "UrlFirst": "Prosím, nejprve vložte platnou Spotify URL.",
