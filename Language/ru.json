@@ -52,7 +52,9 @@
     "SourceOther": "Веб (yt-dlp)",
     "DownloadDisclaimer": "При загрузке трека через Spotify или Apple Music может скачаться не тот трек. Для точного результата найдите трек на SoundCloud или YouTube.",
     "PlaylistBadge": "PLAYLIST • {0}",
-    "PlaylistTrackCount": "{0} треков"
+    "PlaylistTrackCount": "{0} треков",
+    "AudioModeAutoTitle": "Режим загрузки",
+    "AudioModeAutoMessage": "Ссылка ведёт на музыку (не на видео). Режим автоматически переключён на загрузку аудио (Audio)."
   },
   "Spotify": {
     "UrlFirst": "Сначала введите корректную ссылку Spotify.",
