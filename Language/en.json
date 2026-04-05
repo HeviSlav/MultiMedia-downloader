@@ -52,7 +52,9 @@
     "SourceOther": "Web (yt-dlp)",
     "DownloadDisclaimer": "When downloading a track via Spotify or Apple Music, a different track than expected may be downloaded. For more accurate results, find the track directly on SoundCloud or YouTube.",
     "PlaylistBadge": "PLAYLIST • {0}",
-    "PlaylistTrackCount": "{0} tracks"
+    "PlaylistTrackCount": "{0} tracks",
+    "AudioModeAutoTitle": "Download mode",
+    "AudioModeAutoMessage": "This link points to music (not video). The mode was switched to Audio download automatically."
   },
   "Spotify": {
     "UrlFirst": "Please enter a valid Spotify URL first.",
